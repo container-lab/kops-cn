@@ -1,0 +1,7 @@
+###  Jenkins pipeline integrate with kubernete on aws china
+
+1.This repo will introduce how to install jenkins on k8s of AWS CHINA.
+2.How to use jenkins pipeline to make the CICD pipeline.
+3.How to integrate with private repo of github.
+4.How to integarte with private gitlab.
+
